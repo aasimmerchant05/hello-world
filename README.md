@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub repositoryy
+My first GitHub repository
+I love to write programs for microcontrollers
